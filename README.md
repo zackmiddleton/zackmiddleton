@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackmiddleton
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning html, css, javascript, C# and the .NET environment.
 - 💞️ I’m looking to collaborate on any projects that will help me build the skills needed to pursue a career in development. 
 - 📫 How to reach me 
 
